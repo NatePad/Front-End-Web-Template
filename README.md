@@ -9,21 +9,25 @@ As a web developer, instead of creating the file and folder structure for every 
 
 Everything in this template is hosted locally and doesn't rely on a [CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/). All included files have been added to index.html.
 
-1. Custom style.css and script.js files:
-  * assets/css/style.css
-    * Bootstrap's default mobile-first breakpoints have been included
-  * assets/js/script.js
-2. Bootstrap v4.4.1:
-  * assets/css/bootstrap-4.4.1.min.css
-  * assets/js/bootstrap-4.4.1.min.js
-3. jQuery v3.4.1:
-  * assets/js/jquery-3.4.1.min.js
-4. Popper.js v1.16.0:
-  * assets/js/popper-1.16.0.min.js
-5. Font Awesome Free v5.12.0: 
-  * assets/css/fontawesome-free-5.12.0.all.min.css
-    * assets/webfonts
-  * assets/js/fontawesome-free-5.12.0.all.min.js
+#### Custom style.css and script.js files:
+* assets/css/style.css
+  * Bootstrap's default mobile-first breakpoints have been included
+* assets/js/script.js
+
+#### Bootstrap v4.4.1:
+* assets/css/bootstrap-4.4.1.min.css
+* assets/js/bootstrap-4.4.1.min.js
+
+#### jQuery v3.4.1:
+* assets/js/jquery-3.4.1.min.js
+
+#### Popper.js v1.16.0:
+* assets/js/popper-1.16.0.min.js
+
+#### Font Awesome Free v5.12.0:
+* assets/css/fontawesome-free-5.12.0.all.min.css
+  * assets/webfonts
+* assets/js/fontawesome-free-5.12.0.all.min.js
 
 ## Installation and Use:
 
