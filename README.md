@@ -11,7 +11,7 @@ Everything in this template is hosted locally and doesn't rely on a [CDN](https:
 
 #### Custom style.css and script.js files:
 * assets/css/style.css
-  * Bootstrap's default mobile-first breakpoints have been included
+  * Bootstrap's default mobile-first breakpoints have been included. The documentation can be viewed at [https://getbootstrap.com/docs/4.4/layout/overview/#responsive-breakpoints](https://getbootstrap.com/docs/4.4/layout/overview/#responsive-breakpoints).
 * assets/js/script.js
 
 #### Bootstrap v4.4.1:
