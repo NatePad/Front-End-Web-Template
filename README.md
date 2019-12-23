@@ -1,13 +1,17 @@
 # Nate's Front End Web Template
 
 As a web developer, instead of creating the file and folder structure for every front end site or app, I'm making this template to include:
-1. A custom css file and javascript file.
-2. Commonly used libraries such as Bootstrap, jQuery, and Popper.js (which Bootstrap relies on).
-3. The Font Awesome icon set.
+1. A reset.css file.
+2. A custom css file and javascript file.
+3. Commonly used libraries such as Bootstrap, jQuery, and Popper.js (which Bootstrap relies on).
+4. The Font Awesome icon set.
 
 ## Description:
 
 Everything in this template is hosted locally and doesn't rely on a [CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/). All included files have been added to index.html.
+
+#### Reset CSS:
+* assets/css/meyerweb.karbassi.2013.reset.css. Found at [https://gist.github.com/karbassi/5256094](https://gist.github.com/karbassi/5256094). A Google search led to an un-modified fork of this original repo.
 
 #### Custom style.css and script.js files:
 * assets/css/style.css
